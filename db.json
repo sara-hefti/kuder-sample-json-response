@@ -1,33 +1,36 @@
 {
-  "data": [
-    {
-      "assessmentUserID": 2090853,
-      "assessmentType": "Skills",
-      "completedDate": "2020-01-21T10:13:00-06:00",
-      "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
-      "username": "dsmith",
-      "email": "ender544@schools.org",
-      "studentId": "804946"
-    },
-    {
-      "assessmentUserID": 2090854,
-      "assessmentType": "Skills",
-      "completedDate": "2020-01-21T10:13:00-06:00",
-      "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
-      "username": "shefti",
-      "email": "shefti@schools.org",
-      "studentId": "804949"
-    },
-    {
-      "assessmentUserID": 2090853,
-      "assessmentType": "Skills",
-      "completedDate": "2020-01-21T10:13:00-06:00",
-      "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
-      "username": "hhefti",
-      "email": "hhefti@schools.org",
-      "studentId": "804950"
-    }
-  ]
+  "httpStatusCode": 200,
+  "messages": [
+    "OK"
+  ],
+    "errors": [],
+    "data":  [
+      {
+        "assessmentUserID": 2090853,
+        "assessmentType": "Skills",
+        "completedDate": "2020-01-21T10:13:00-06:00",
+        "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
+        "username": "dsmith",
+        "email": "ender544@schools.org",
+        "studentId": "804946"
+      },
+      {
+        "assessmentUserID": 2090854,
+        "assessmentType": "Skills",
+        "completedDate": "2020-01-21T10:13:00-06:00",
+        "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
+        "username": "shefti",
+        "email": "shefti@schools.org",
+        "studentId": "804949"
+      },
+      {
+        "assessmentUserID": 2090853,
+        "assessmentType": "Skills",
+        "completedDate": "2020-01-21T10:13:00-06:00",
+        "top5": "'Facility and Mobile Equipment','Power, Structural, and Technical Systems','Construction','Animal Systems','Plant Systems'",
+        "username": "hhefti",
+        "email": "hhefti@schools.org",
+        "studentId": "804950"
+      }
+    ]
 }
-
-
